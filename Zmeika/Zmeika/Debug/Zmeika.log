@@ -1,0 +1,7 @@
+﻿  Zmeika.cpp
+C:\Users\DearKetrin\source\repos\Zmeika\Zmeika\Zmeika.cpp(64,18): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\DearKetrin\source\repos\Zmeika\Zmeika\Zmeika.cpp(64,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\DearKetrin\source\repos\Zmeika\Zmeika\Zmeika.cpp(186,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DearKetrin\source\repos\Zmeika\Zmeika\Zmeika.cpp(201,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DearKetrin\source\repos\Zmeika\Zmeika\Zmeika.cpp(367,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Zmeika.vcxproj -> C:\Users\DearKetrin\source\repos\Zmeika\Debug\Zmeika.exe
